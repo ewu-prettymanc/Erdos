@@ -1,0 +1,38 @@
+9
+4 3
+Smith, M.N., Martin, G., Erdos, P.: Newtonian forms of prime factors
+Erdos, P., Reisig, W.: Stuttering in petri nets
+Smith, M.N., Chen, X.: First order derivates in structured programming
+Jablonski, T., Hsueh, Z.: Selfstabilizing data structures2.8. Problems
+Smith, M.N.
+Hsueh, Z.
+Chen, X.
+4 3
+Smith, M.N., Martin, G., Erdos, P.: Newtonian forms of prime factors
+Erdos, P., Reisig, W.: Stuttering in petri nets
+Smith, M.N., Chen, X.: First order derivates in structured programming
+Jablonski, T., Hsueh, Z.: Selfstabilizing data structures2.8. Problems
+Smith, M.N.
+Hsueh, Z.
+Chen, X.
+2 3
+Erdos, P.: Erdos Paper Test
+Loner, L.: Loner Test Paper
+Erdos, P.
+Loner, L.
+NotInPaper, N.
+0 0
+1 1
+Erdos, P., Erdos, P.: Just me Erdos!
+Erdos, P.
+1 0
+JustOne, J.: I just wrote one
+0 1
+WhatAboutMe, W
+5 1
+John, D., Erdos, P.: Just me and Erdos Today!
+LittleJohn, L., John, D.: Me and John Writing Code.
+JakeTheSnake, JJ., LittleJohn, L.: Just doing what we do.
+Frankenstein, F., JakeTheSnake, JJ.: You know whay they say.
+MyErdosNumberShouldBe, Five., Frankenstein, F.: As you said Earlier
+MyErdosNumberShouldBe, Five.
